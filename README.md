@@ -12,7 +12,6 @@ This project is a rootkit development. It is designed as a kernel module that de
 2. https://github.com/xcellerator/linux_kernel_hacking
 3. https://blog.csdn.net/whatday/article/details/102488130
 4. https://blog.csdn.net/weixin_45030965/article/details/129212657
-5. chatGPT
 
 ## Features
 
